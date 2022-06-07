@@ -11,7 +11,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 1. Click [SCAN](https://levanter.up.railway.app/warn) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot/fork)
+4. Click [FORK](https://github.com/deepak260901/whatsapp-bot/fork)
 5. Now [DEPLOY](https://levanter.up.railway.app/dnmd)<br>
    <br>
    <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
@@ -23,7 +23,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 <!--
 [![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/whatsapp-bot) -->
 <details>
 <summary>Plugins</summary>
 <p>
